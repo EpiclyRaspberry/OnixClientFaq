@@ -134,7 +134,7 @@ Hold CTRL + L.
 ```
 
 ### **What’s the latest version of the client?**
-- The current latest is version 2.51.
+- The current latest is version 2.65.
 
 ### **What features are in the client?**
 - We currently have tons of features, which are:
